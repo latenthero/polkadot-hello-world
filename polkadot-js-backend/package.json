@@ -1,0 +1,8 @@
+{
+  "name": "polkadot-js-backend",
+  "version": "0.0.1",
+  "main": "index.js",
+  "dependencies": {
+    "@polkadot/api": "^2.2.1"
+  }
+}
